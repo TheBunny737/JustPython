@@ -1,6 +1,7 @@
 #Lab03-1 (BMI)
 
 import math
+
 Weight = int(input("Weight (kg): "))
 Height = float(input("Height (m): "))
 BMI = Weight / math.pow(Height, 2)
