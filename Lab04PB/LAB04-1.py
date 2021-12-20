@@ -1,4 +1,4 @@
-#Lab04-1 (Guessing 2)
+#Lab04-1 (Guessing 2) Updated
 
 target = 72 #ไม่ต้อง copy บรรทัดนี้
 num = int(input("Enter your guess (0 - 100): "))
