@@ -1,4 +1,4 @@
-#Lab04-8 Will (?) Assignment
+#Lab04-8 Assignment
 
 minute = int(input("Minutes before due: "))
 temp = float(input("Temperature: "))
