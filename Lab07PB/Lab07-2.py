@@ -1,4 +1,4 @@
-#Lab07-1 (Triangle alphabet 1)
+#Lab07-2 (Triangle alphabet 2)
 
 n = int(input("Enter a number: "))
 i = n
