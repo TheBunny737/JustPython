@@ -9,7 +9,7 @@ while True:
         print("End of program, goodbye.")
         break
     elif num <= 1:
-        print("Ivalid input, try again.")
+        print("Invalid input, try again.")
     else:
         while i <= num:
             if num % i == 0:
