@@ -7,5 +7,6 @@ def nb_year(p0, percent, aug, p):
         count += 1
     return count
 
+# ไม่ต้อง Copy 2 บรรทัดนี้
 print(nb_year(1000, 2, 30, 1150))
 print(nb_year(1500000, 0.25, 1000, 2000000))
